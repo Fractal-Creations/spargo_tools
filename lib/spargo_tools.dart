@@ -12,3 +12,4 @@ export 'src/cubit/base_cubit_request_mixin.dart';
 export 'src/cubit/base_cubit_request_mixin_old.dart';
 export 'src/http_client/http_client.dart';
 export 'src/http_client/cancel_completer.dart';
+export 'src/widgets/overlay_manager/overlay_manager.dart';
